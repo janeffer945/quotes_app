@@ -8,7 +8,7 @@ import { AppVoteComponent } from './app-vote/app-vote.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
+    AppComponent, 
     QuoteComponent,
     AppVoteComponent
      ],

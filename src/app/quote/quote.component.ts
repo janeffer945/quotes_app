@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component,Input , OnInit } from '@angular/core';
 import { Quote } from '../quote';
 @Component({
   selector: 'app-quote',
