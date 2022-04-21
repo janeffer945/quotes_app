@@ -19,20 +19,20 @@ export class QuoteComponent implements OnInit {
      this.quotes[index].showInfo = !this.quotes[index].showInfo;
    }
    
-   deleteQuote(isComplete: any,index: number){
-     if (isComplete) { 
-       let toDelete = confirm('Are you sure you want to delete ${this.quotes[index].name}?')
-       if (toDelete)
-       this.quotes.splice(index,1);
-     }
-   }
-   addNewQuote(quote:any){
-     let quoteLength = this.quotes.length;
-     quote.id = quoteLength+1;
-     Quote.completeDate = new Date(quote.completeDate)
+  //  deleteQuote(isComplete: any,index: number){
+  //    if (isComplete) { 
+  //      let toDelete = confirm('Are you sure you want to delete ${this.quotes[index].name}?')
+  //      if (toDelete)
+  //      this.quotes.splice(index,1);
+  //    }
+  //  }
+  //  addNewQuote(quote:any){
+  //    let quoteLength = this.quotes.length;
+  //    quote.id = quoteLength+1;
+  //    Quote.completeDate = new Date(quote.completeDate)
      
-     this.quotes.push(quote)
-   }
+  //    this.quotes.push(quote)
+  //  }
 
   constructor() { }
 
