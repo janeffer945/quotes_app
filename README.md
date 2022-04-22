@@ -27,7 +27,12 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 5.You need computer or phone and be able to access internet.
 ## Technologies Used
-   
+   * HTML - which was used to build the structure of the pages.
+
+* CSS - which was used to style the pages.
+
+* js  -This was used to add functionality to the website.
+* Angular CLI
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
