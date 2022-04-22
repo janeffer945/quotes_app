@@ -26,6 +26,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 4.Copy the path of the index.html file to your browser and you will be able to access the application.
 
 5.You need computer or phone and be able to access internet.
+## Technologies Used
+   
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
