@@ -1,7 +1,12 @@
 #  Janeffer Njeri
 # QuotesApp
-# Auth
-
+## Table of Content
++ [Description](#description)
++ [Development server](#ng-serve)
++ [Technology Used](#technology-used)
++ [Reference](#reference)
++ [License](#license-Copyright)
++ [Authors Info](#author-Info/contacts)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
 ## Development server
