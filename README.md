@@ -17,6 +17,15 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Set-up/Installation 
 
 ### Requirements
+1.Clone the project using git -clone . If you are not able to clone it, you can download the files as a zip folder
+
+2.Ensure that you have the complete file
+
+3.Navigate to the index.html file which is in the root file of the folder.
+
+4.Copy the path of the index.html file to your browser and you will be able to access the application.
+
+5.You need computer or phone and be able to access internet.
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
