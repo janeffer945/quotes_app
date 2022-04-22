@@ -15,7 +15,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## live link
     "https://janeffer945.github.io/quotes_app/"
 ## Code scaffolding
-
+## Setup Insrallation
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
