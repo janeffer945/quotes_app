@@ -35,7 +35,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 * Angular CLI
 ## License
   *MIT*license
-  @copyright (c) license 2022
+  @copyright (c) license 2022, janeffer njeri 
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
